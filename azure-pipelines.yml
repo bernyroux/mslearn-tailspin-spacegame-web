@@ -1,4 +1,8 @@
 pool:
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'NUnit'
+    testResultsFiles: '**/TEST-*.xml'
   vmImage: 'Ubuntu-16.04'
   demands:
     - npm
