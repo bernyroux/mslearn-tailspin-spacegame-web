@@ -1,3 +1,4 @@
+[![Build Status](https://zespri.visualstudio.com/Berny%20Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/bernyroux.mslearn-tailspin-spacegame-web?branchName=failed-test)](https://zespri.visualstudio.com/Berny%20Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=26&branchName=failed-test)
 
 # Contributing
 
